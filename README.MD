@@ -20,7 +20,7 @@ Before you begin, ensure you have the following installed on your machine:
 **1. Clone the repository**
 Download the project to your local machine:
 ```bash
-git clone [https://github.com/ananacik-455/danit_56_api.git](https://github.com/ananacik-455/danit_56_api.git)
+git clone https://github.com/ananacik-455/danit_56_api.git
 cd your-repo-name
 
 ```
@@ -117,7 +117,7 @@ You can test your newly public API using Postman:
 
 ```json
 {
-  "image_link": "[https://images.unsplash.com/photo-1543466835-00a7907e9de1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80](https://images.unsplash.com/photo-1543466835-00a7907e9de1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)"
+  "image_link": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
 }
 
 ```
